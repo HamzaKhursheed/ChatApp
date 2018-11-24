@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    tools:context = ".LoginActivity">
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/tool_bar_layout_id_login"
+        layout="@layout/bar_layout"/>
+
+    <LinearLayout
+        android:layout_width = "match_parent"
+        android:layout_height = "match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_below="@id/tool_bar_layout_id">
+
+        <TextView
+            android:layout_width = "wrap_content"
+            android:layout_height = "wrap_content"
+            android:text="@string/login"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:inputType="textEmailAddress"
+            app:met_floatingLabel="normal"
+            android:id="@+id/emailETLogin"
+            android:paddingLeft="5dp"
+            android:hint="@string/email"/>
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:inputType="textPassword"
+            app:met_floatingLabel="normal"
+            android:id="@+id/passwordETLogin"
+            android:paddingStart="5dp"
+            android:paddingLeft="5dp"
+            android:hint="@string/password"/>
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width = "match_parent"
+            android:layout_height = "wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:text="@string/login"
+            android:layout_marginTop="35dp"
+            android:textStyle="bold"
+            android:textColor="#fff"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "703150288700",
+    "firebase_url": "https://fcm-testapp-2cfc6.firebaseio.com",
+    "project_id": "fcm-testapp-2cfc6",
+    "storage_bucket": "fcm-testapp-2cfc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703150288700:android:cb9c06579bdc645b",
+        "android_client_info": {
+          "package_name": "com.fcmnotificationproject.hamzakhurshid.rana.fcmtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9syOA-_VBCIlyfavIHKveO_PYQVfjT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703150288700:android:6421d49426a23c7c",
+        "android_client_info": {
+          "package_name": "com.jsonparsing.myapps.hamzakhurshid.androiphobia.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703150288700-fl3hgm17tf6l2oap3kmrb9tklrdbr24e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsonparsing.myapps.hamzakhurshid.androiphobia.firebase",
+            "certificate_hash": "10d1e1d1fff473e07affab1ab9130809e7de89f7"
+          }
+        },
+        {
+          "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9syOA-_VBCIlyfavIHKveO_PYQVfjT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703150288700:android:8d9d7df9596d1093",
+        "android_client_info": {
+          "package_name": "com.multiplescreen.hamzakhurshid.rana.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703150288700-6vqiq17jolq8jqaunac2r4sutsq2nift.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multiplescreen.hamzakhurshid.rana.realtimedatabase",
+            "certificate_hash": "10d1e1d1fff473e07affab1ab9130809e7de89f7"
+          }
+        },
+        {
+          "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9syOA-_VBCIlyfavIHKveO_PYQVfjT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703150288700:android:1e1a842f5ee3e38c",
+        "android_client_info": {
+          "package_name": "mychattingapp.androiphobia.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703150288700-jors5lur60cnh27rb57td139nfj0iojq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mychattingapp.androiphobia.chatapp",
+            "certificate_hash": "10d1e1d1fff473e07affab1ab9130809e7de89f7"
+          }
+        },
+        {
+          "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9syOA-_VBCIlyfavIHKveO_PYQVfjT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703150288700-k4kbdaq0dbq4na7fmo77s60si20a34d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
